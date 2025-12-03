@@ -2,7 +2,7 @@ module github.com/kumojin/go-blob-repository
 
 go 1.23.0
 
-toolchain go1.25.4
+toolchain go1.25.5
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.3
